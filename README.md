@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Apasionado por la tecnología y el desarrollo de software, con experiencia en múltiples áreas del desarrollo fullstack. He trabajado en proyectos que abarcan desde aplicaciones web empresariales hasta soluciones de inteligencia artificial. Me especializo en crear soluciones escalables, eficientes y con diseño centrado en el usuario. Busco oportunidades para seguir creciendo como desarrollador y aportar valor con soluciones innovadoras.
+Apasionado por la tecnología y el desarrollo de software, con experiencia en múltiples áreas del desarrollo fullstack. He trabajado en proyectos que abarcan desde aplicaciones web empresariales hasta soluciones de inteligencia artificial. Me especializo en crear soluciones escalables, eficientes y con diseño centrado en el usuario. 
 
 ---
 
